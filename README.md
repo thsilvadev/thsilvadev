@@ -13,6 +13,7 @@
 - 💻 Python: curso no app Mimo, exercícios no [CodeWars]
 (https://www.codewars.com/users/thsilvadev/completed) e livro [Coffe Break Python](https://coffeebreakpython.com/). Python é vida, né?
 - 💻 TypeScript: curso no canal de Youtube [freeCodeCamp](https://www.youtube.com/watch?v=30LWjhZzg50). Porque se não tipar vai dar M#.
+- 💻 Linux: dominando o básico de navegação, instalação, criação e edição de arquivos, diretórios e programas. Atualmente praticando edição de código em vi; permissões e chmod; pm2 e supervisor para gerenciamento de processos.
 ### 💬 Vamos conversar!
 - Me ache no [LinkedIn](https://www.linkedin.com/in/thiagosauro/)
 - Ou me envie um email: thsilva.developer@gmail.com
