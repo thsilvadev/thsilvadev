@@ -6,9 +6,12 @@
 <p>👩🏻‍💼 Viciado na onda de dopamina dos 'debugs'. Interessado em desenvolver aplicações que solucionam problemas e/ou promovem interação social. Graduado em Ciências Sociais, naturalmente sempre de olho na experiência do usuário e no impacto social dos projetos que participo. </p>
 
 ### 📚 O que estou fazendo
+- 📖 Curso Técnico de Desenvolvimento de Software na FPF-Tech Educacional (2o Módulo).
 - 📖 Curso de Git avançado na [Udemy](https://www.udemy.com/course/git-and-github-bootcamp/).
 - ⚙️ Trabalhando na detecção de cartas via AI no [MTGChest](https://mtgchest.com).
-- ⚙️ Desenvolvendo a API para o [Audiozzap](https://audiozzap.com): uma rede social de áudios.
+- ⚙️ Desenvolvendo o [Audiozzap](https://audiozzap.com): uma rede social de áudios.
+- ⚙️ Desenvolvendo o LoveTimeLine, um MicroSaaS para casais guardarem suas recordações mais especiais.
+- ⚙️ Desenvolvendo o ConsultAI, o seu assistente AI para análise de exames.
 ### 🌱 Tecnologias que estou aprendendo
 - 💻 Python: curso no app Mimo, exercícios no [CodeWars]
 (https://www.codewars.com/users/thsilvadev/completed) e livro [Coffe Break Python](https://coffeebreakpython.com/). Python é vida, né?
