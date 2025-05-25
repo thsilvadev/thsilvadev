@@ -1,7 +1,7 @@
 
 # Olá, Thiago aqui! Seja bem-vindo! 🙋‍♂️
 
-## 👨‍💻 Desenvolvedor Fullstack - ReactJS / Angular; NodeJS / Django;  MySQL / PostgreSQL
+## 👨‍💻 Desenvolvedor Fullstack - ReactJS | Angular;  NodeJS | Django;   MySQL | PostgreSQL
 
 <p>👩🏻‍💼 Viciado na onda de dopamina dos 'debugs'. Interessado em desenvolver aplicações que solucionam problemas e/ou promovem interação social. Graduado em Ciências Sociais, naturalmente sempre de olho na experiência do usuário e no impacto social dos projetos que participo. </p>
 
