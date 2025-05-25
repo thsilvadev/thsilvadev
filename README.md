@@ -20,7 +20,7 @@
 - 💻 Linux: dominando o básico de navegação, instalação, criação e edição de arquivos, diretórios e programas. Atualmente praticando edição de código em vi; permissões e chmod; pm2 e supervisor para gerenciamento de processos.
 - 💻 Angular, Django e Git avançado: curso da FPF-Tech Educacional.
 ### 🎯 Esse ano eu já
-- ✅ Aprendi Estrutura de Dados (FIFO, LIFO, Btree) em GOLANG.
+- ✅ Aprendi Estrutura de Dados (FIFO, LIFO, Btree), aplicando os conceitos em GOLANG.
 - ✅ Aprimorei meus conhecimentos em Programação Orientada a Objetos, aplicando os conceitos em JAVA.
 - ✅ Ampliei meu leque de ferramentas Backend, tendo aprendido e praticado a técnica ORM (Object-Relational Mapping) em múltiplos projetos utilizando Django Rest Framework.
 - ✅ Desenvolvi Frontends em Angular, um framework que ainda não tinha encarado. Conhecer uma nova framework aplicando as boas práticas profissionais de POO em TypeScript foi super divertido!
