@@ -25,6 +25,7 @@
 - ✅ Ampliei meu leque de ferramentas Backend, tendo aprendido e praticado a técnica ORM (Object-Relational Mapping) em múltiplos projetos utilizando Django Rest Framework.
 - ✅ Desenvolvi Frontends em Angular, um framework que ainda não tinha encarado. Conhecer uma nova framework aplicando as boas práticas profissionais de POO em TypeScript foi super divertido!
 - ✅ Realizei meu primeiro freelance! E foi em tecnologias recém aprendidas: o Angular e o Django. Foi uma ótima experiência que me fez notar um grau de fluência não só na minha stack principal, mas em desenvolvimento de software como um todo.
+- ✅ Fiz um projeto fullstack para uma mostra de tecnologia! Desenvolvi um [serviço de análise de exames](https://consult-ai-beta.vercel.app/) (PDF) utilizando IA. Frontend -> React + Vite; Backend -> FastAPI + Docling (para o parse do PDF em .MD, ideal para a IA); IA -> GroqAPI. O Backend está desligado, mas ainda dá pra checkar o sitezinho :)
 ### 💬 Vamos conversar!
 - Me ache no [LinkedIn](https://www.linkedin.com/in/thiagosauro/)
 - Ou me envie um email: thsilva.developer@gmail.com
